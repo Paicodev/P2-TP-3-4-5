@@ -1,4 +1,4 @@
-package tp4;
+package seccion_2;
 
 /**
  * corresponde al Ejercicio 2.2: Uso de mensajes claros y captura específica.

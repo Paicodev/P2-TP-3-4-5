@@ -1,9 +1,9 @@
-package tp4;
+package seccion_1;
 
 /**
  * Corresponde al Ejercicio 1.2: El bloque finally
  */
-public class Ejercicio1_2 {
+public class ejercicio_1_2 {
 
      public static void main(String[] args) {
         simularDivisionPorCero();

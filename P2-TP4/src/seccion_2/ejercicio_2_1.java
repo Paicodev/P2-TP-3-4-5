@@ -1,4 +1,4 @@
-package tp4;
+package seccion_2;
 
 public class ejercicio_2_1 {
 /**

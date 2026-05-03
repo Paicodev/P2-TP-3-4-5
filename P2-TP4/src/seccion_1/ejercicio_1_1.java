@@ -1,4 +1,4 @@
-package tp4;
+package seccion_1;
 /**
  * Clase que corresponde al Ejercicio 1.1: Bloques try/catch y captura de información.
  */
